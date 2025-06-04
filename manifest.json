@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "QuickLaunch - Website Opener",
+  "version": "1.0",
+  "description": "Open your favorite daily websites in one click!",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icons/icon128.png"
+  },
+  "permissions": ["tabs", "storage"],
+  "icons": {
+    "128": "icons/icon128.png"
+  }
+}
