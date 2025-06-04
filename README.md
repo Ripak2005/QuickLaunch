@@ -23,13 +23,15 @@ Say goodbye to typing URLs repeatedly — save your favorite sites and launch th
 
 ---
 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-Feel free to fork the repo and submit a pull request.
 
-If you find any bugs or want to suggest improvements, please open an issue.
-
+- Contributions, issues, and feature requests are welcome!
+- Feel free to fork the repo and submit a pull request.
+- If you find any bugs or want to suggest improvements, please open an issue.
 ---
+
+
 Feel free to reach out for questions, feedback, or collaboration!
+
 
 ---
 Save time. Boost productivity. Launch smarter.
