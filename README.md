@@ -14,11 +14,23 @@ Say goodbye to typing URLs repeatedly — save your favorite sites and launch th
 - Saves your list locally for quick, offline access  
 - Minimal permissions for privacy and security  
 
----
-
 ## 💻 Installation
 ### Manual Installation (Developer Mode)
 
 1. Clone this repository or download the ZIP:  
    ```bash
    git clone https://github.com/yourusername/quicklaunch.git
+
+---
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repo and submit a pull request.
+
+If you find any bugs or want to suggest improvements, please open an issue.
+
+---
+Feel free to reach out for questions, feedback, or collaboration!
+
+---
+Save time. Boost productivity. Launch smarter.
+
