@@ -1,38 +1,31 @@
-# QuickLaunch 🚀
+# 🚀 QuickLaunch – One-Click Website Launcher Chrome Extension
 
-QuickLaunch is a lightweight Chrome extension that lets you open all your frequently used websites with **just one click**.  
-Say goodbye to typing URLs repeatedly — save your favorite sites and launch them instantly to save time and boost productivity!
+**QuickLaunch** is a lightweight and super-efficient Chrome extension that helps you open all your daily-use websites with just **one click**.  
+No more wasting time typing URLs again and again — save your favorites and launch them all instantly!
 
 ---
 
-## 🔥 Features
+## 🎯 Features
 
-- Open multiple websites at once with a single click  
-- Add, edit, and remove websites easily from a clean and simple UI  
-- Displays only website names (no long URLs cluttering the interface)  
-- Compatible with **Google Chrome** and **Brave** browsers  
-- Saves your list locally for quick, offline access  
-- Minimal permissions for privacy and security  
+- 🔘 One-click to open multiple websites
+- 💾 Add, edit, and remove websites easily
+- 🧾 Clean UI showing just website names (no long URLs)
+- 🦁 Works perfectly on **Chrome** and **Brave**
+- 📦 Fully offline — uses LocalStorage, no login needed
+
+---
+
+## 🎥 Demo Video
+
+> 📽️ **Watch the QuickLaunch demo in action**:
+
+[![QuickLaunch Demo Video](https://drive.google.com/file/d/1ffMcWE0w0ALtOYdlb--rf89WZkIRrkFx/view?usp=sharing)]
+
 
 ## 💻 Installation
-### Manual Installation (Developer Mode)
 
-1. Clone this repository or download the ZIP:  
+### 🛠 Manual Installation (Dev Mode)
+
+1. Clone or download this repository:
    ```bash
    git clone https://github.com/yourusername/quicklaunch.git
-
----
-🤝 Contributing
-
-- Contributions, issues, and feature requests are welcome!
-- Feel free to fork the repo and submit a pull request.
-- If you find any bugs or want to suggest improvements, please open an issue.
----
-
-
-Feel free to reach out for questions, feedback, or collaboration!
-
-
----
-Save time. Boost productivity. Launch smarter.
-
