@@ -19,7 +19,7 @@ No more wasting time typing URLs again and again — save your favorites and lau
 
 > 📽️ **Watch the QuickLaunch demo in action**:
 
-[![QuickLaunch Demo Video](https://drive.google.com/file/d/1ffMcWE0w0ALtOYdlb--rf89WZkIRrkFx/view?usp=sharing)]
+[QuickLaunch Demo Video](https://drive.google.com/file/d/1ffMcWE0w0ALtOYdlb--rf89WZkIRrkFx/view?usp=sharing)
 
 
 ## 💻 Installation
